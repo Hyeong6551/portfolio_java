@@ -12,7 +12,7 @@ Java 도서관리 프로그램
 - `java 21`
 - `JDK 21`
 - IDE : Eclipse
-- Database : Oracle (11c)
+- Database : Oracle (11g)
 
 ## 주요 기능
 ### 관리자 페이지
@@ -20,3 +20,6 @@ C : 책 추가 / R : 도서 목록 조회 / U : 책 변경 / D : 책 삭제
 
 ### 사용자 페이지
 C : 책 대출 / R : 내 도서목록 조회 / U : X / D : 책 반납
+
+## 시연 영상
+https://youtu.be/2wfgcexkvVo
