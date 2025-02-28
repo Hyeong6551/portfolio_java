@@ -16,6 +16,7 @@ Java 도서관리 프로그램
 - `JDK 21`
 - IDE : Eclipse
 - Database : Oracle (11g)
+- jdbc : [ojdbc17.jar](https://download.oracle.com/otn-pub/otn_software/jdbc/237/ojdbc17.jar)
 
 
 ## 주요 기능
